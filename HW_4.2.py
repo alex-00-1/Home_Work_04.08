@@ -13,5 +13,4 @@ if lst:
 
     print(x * lst[-1])
 else:
-    lst.append(0)
-    print(lst)
+    print(x)
